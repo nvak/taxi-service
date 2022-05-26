@@ -40,7 +40,7 @@
                             </td>
                             <td class="table__row_btn" style="border: none;">
                                 <div class="dropdown">
-                                    <button class="dropbtn">Add driver</button>
+                                    <button class="dropbtn btn">Add driver</button>
                                     <div id="${car.id}" class="dropdown-content">
                                         <input type="text" placeholder="Search.." id="myInput">
                                         <c:forEach items="${drivers}" var="driver">
