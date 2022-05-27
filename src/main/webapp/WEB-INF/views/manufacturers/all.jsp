@@ -19,7 +19,6 @@
                         <th>ID</th>
                         <th>Model</th>
                         <th>Manufacturer</th>
-                        <th>Drivers</th>
                     </tr>
                     <c:forEach items="${manufacturers}" var="manufacturer">
                     <tr class="table__row">
